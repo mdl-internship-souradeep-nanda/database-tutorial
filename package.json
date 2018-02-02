@@ -1,0 +1,27 @@
+{
+  "name": "database-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdl-internship-souradeep-nanda/database-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdl-internship-souradeep-nanda/database-tutorial/issues"
+  },
+  "homepage": "https://github.com/mdl-internship-souradeep-nanda/database-tutorial#readme",
+  "dependencies": {
+    "pg": "^6.4.2",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.32.3"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^3.2.0"
+  }
+}
